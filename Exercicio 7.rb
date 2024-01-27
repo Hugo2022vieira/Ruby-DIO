@@ -1,8 +1,8 @@
 =begin
 Exercício 7: Manipulação de Listas
-1.	Crie duas listas, uma com números pares e outra com números ímpares.
-2.	Concatene as duas listas e ordene os números em ordem crescente.
-3.	Imprima a lista resultante.
+1. Crie duas listas, uma com números pares e outra com números ímpares.
+2. Concatene as duas listas e ordene os números em ordem crescente.
+3. Imprima a lista resultante.
 =end
 
 # Cria duas listas, uma com números pares e outra com números ímpares
